@@ -65,14 +65,7 @@
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=abrkgrbz&repo=project1&theme=dark)](https://github.com/abrkgrbz)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=abrkgrbz&repo=project2&theme=dark)](https://github.com/abrkgrbz)
-
-</div>
-
+ 
 > 📂 **[View All Projects](https://github.com/abrkgrbz?tab=repositories)** - Explore my complete portfolio of software solutions
 
 ---
